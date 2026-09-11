@@ -1,4 +1,4 @@
-;; data/datascript-tx.edn — DataScript tx-data derived from src/ordinance/facts.cljc
+;; data/datascript-tx.edn — DataScript tx-data derived from src/ordinance/facts.cljk
 ;; `ordinance.facts/catalog` (ADR-2607141700 Wave 0). No :db/id per entity
 ;; (DataScript auto-assigns), same shape as the sibling statute.facts /
 ;; legal-source tx-data files. `:ordinance/topic` serialized as a vector.
